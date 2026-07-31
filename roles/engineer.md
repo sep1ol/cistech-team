@@ -21,6 +21,9 @@ A [stack declarativa](../stack.md) existe exatamente para tornar isso possível.
    princípio nº 1 da área.
 5. **Dar visibilidade** — apresentar seus projetos nas [reuniões de controle](../meetings.md):
    demo, progresso, feedback colhido e bloqueios.
+6. **Registrar project updates no Linear, quase diariamente** — o que andou, o que
+   travou, o que aprendeu. O update diário é o que permite que as reuniões decidam em
+   vez de relatar; dia trabalhado sem update é trabalho invisível.
 
 ## Dimensionamento
 

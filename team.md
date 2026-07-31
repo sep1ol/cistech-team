@@ -43,7 +43,10 @@ Escalar = adicionar projetos com donos, nunca inchar um projeto além do teto.
 
 ## Comunicação
 
+- **Dia a dia**: no **Slack** — canal oficial do time, com integração do Linear
+  (ver [assets.md](assets.md)).
 - **Entre engenheiros**: diária e direta, sem intermediário.
+- **Atividade dos projetos**: project updates quase diários no Linear.
 - **Com o CEO / entre projetos e empresa**: nas [reuniões de controle](meetings.md).
 - **Regra**: o que não está escrito nos docs ou dito em reunião de controle não é
   decisão — é conversa.

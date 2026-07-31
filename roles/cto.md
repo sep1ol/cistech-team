@@ -29,6 +29,8 @@ por excelência.
 6. **Manter o Linear organizado** — a hierarquia de issues (épico > feature > task,
    com dependências) é responsabilidade do CTO. As prioridades fechadas na reunião de
    terça viram issues priorizadas; o Linear reflete sempre o estado real dos projetos.
+   Os **milestones** de cada projeto são definidos pelo engenheiro dono junto com o CTO
+   — são eles que guiam as reuniões de controle.
 
 ## Estado atual
 

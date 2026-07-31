@@ -13,6 +13,17 @@ Elas são a cola que une a tecnologia ao resto da empresa — **inegociáveis**.
 Reuniões com testadores/usuários são à parte: qualquer dia, conforme necessidade,
 conduzidas pelo engenheiro do projeto.
 
+## A pauta vive no Linear
+
+As reuniões de controle são discutidas **em cima do Linear**, não de memória:
+
+- **Milestones guiam a direção.** Cada projeto tem seus milestones declarados no Linear —
+  eles são a estrada até o que o projeto realmente é. Toda discussão de prioridade
+  começa perguntando: "em que milestone estamos e o que falta para o próximo?"
+- **Project updates são leitura prévia.** O engenheiro registra updates quase diários;
+  CEO e CTO chegam na reunião **já lidos**. A reunião serve para decidir, não para
+  relatar — relato é o que os updates já fizeram durante a semana.
+
 ---
 
 ## Terça — Reunião de Direção
@@ -24,8 +35,8 @@ conduzidas pelo engenheiro do projeto.
 1. **Estado em produção** (2 min) — o projeto está no ar? Algum incidente desde quinta?
 2. **Feedback dos testadores** (10 min) — o que os usuários disseram/fizeram. Fatos, não
    impressões: o que usaram, onde travaram, o que pediram.
-3. **Prioridades da semana** (10 min) — o que o engenheiro vai atacar até quinta e por quê.
-   Máximo 3 prioridades por projeto.
+3. **Prioridades da semana** (10 min) — o que o engenheiro vai atacar até quinta e por quê,
+   derivado do milestone atual do projeto. Máximo 3 prioridades por projeto.
 4. **Decisões e bloqueios** (10 min) — o que precisa do CEO: dinheiro, contatos,
    decisões de negócio, acesso a clientes/testadores.
 
@@ -45,8 +56,8 @@ na terça.
    Sem julgamento; o objetivo é calibrar o quanto cabe numa semana.
 3. **Próximos passos para os testadores** (5 min) — o que será exposto aos usuários e
    que feedback queremos colher.
-4. **Visão de frente** (5 min) — o que se desenha para a próxima semana (vira insumo
-   da terça).
+4. **Visão de frente** (5 min) — progresso no milestone atual: o que falta para
+   cruzá-lo, e o que se desenha para a próxima semana (vira insumo da terça).
 
 **Saída obrigatória:** Linear atualizado — issues entregues marcadas como Done, o que
 rolou para a semana seguinte repriorizado.

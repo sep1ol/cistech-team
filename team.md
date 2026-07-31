@@ -17,7 +17,7 @@ Cada projeto tem 1 a 3 engenheiros — nunca mais que isso:
 ## Organograma
 
 ```
-CEO ─── CTO (Arthur)
+CEO (Rafael) ─── CTO (Arthur)
          ├── Base comum (Morfeu, infra, padrões)
          ├── IA Security ──── Kleverson
          ├── Redirecionador ─ Arthur

@@ -1,5 +1,7 @@
 # Papel: CEO
 
+**Titular:** Rafael
+
 ## Missão
 
 Dirigir o negócio. O CEO é o dono da direção comercial da CIS: mercado, dinheiro,
@@ -19,6 +21,10 @@ reais.
    bloqueios levantados pelos times.
 5. **Decisões de negócio rápidas** — bloqueio de negócio levantado em reunião de
    controle tem dono: o CEO. Decisão pendente é time parado.
+6. **Usar o Linear** — acompanhar o progresso dos projetos pelo Linear (visibilidade
+   total, sem precisar esperar reunião) e registrar pedidos/ideias de negócio como
+   issues em linguagem de produto. Pedido registrado entra na priorização de terça;
+   pedido falado se perde.
 
 ## Relação com os outros papéis
 

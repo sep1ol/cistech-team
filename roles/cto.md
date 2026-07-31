@@ -1,5 +1,7 @@
 # Papel: CTO
 
+**Titular:** Arthur
+
 > Technology is leverage: it turns one person into a thousand.
 > The CTO's job is to choose where that leverage points.
 > Products and developers are the instruments; the future of the company
@@ -24,6 +26,9 @@ por excelência.
 5. **Manter a base comum** — o template [Morfeu](../projects/morfeu.md) e a
    infraestrutura são responsabilidade do CTO; é deles que vem a velocidade de todos
    os engenheiros.
+6. **Manter o Linear organizado** — a hierarquia de issues (épico > feature > task,
+   com dependências) é responsabilidade do CTO. As prioridades fechadas na reunião de
+   terça viram issues priorizadas; o Linear reflete sempre o estado real dos projetos.
 
 ## Estado atual
 

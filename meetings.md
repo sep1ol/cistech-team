@@ -29,7 +29,8 @@ conduzidas pelo engenheiro do projeto.
 4. **Decisões e bloqueios** (10 min) — o que precisa do CEO: dinheiro, contatos,
    decisões de negócio, acesso a clientes/testadores.
 
-**Saída obrigatória:** lista de prioridades da semana, registrada por escrito.
+**Saída obrigatória:** prioridades da semana registradas no **Linear** (issues
+priorizadas por projeto).
 
 ## Quinta — Reunião de Progresso
 
@@ -47,7 +48,8 @@ na terça.
 4. **Visão de frente** (5 min) — o que se desenha para a próxima semana (vira insumo
    da terça).
 
-**Saída obrigatória:** registro do que foi entregue e do que rolou para a semana seguinte.
+**Saída obrigatória:** Linear atualizado — issues entregues marcadas como Done, o que
+rolou para a semana seguinte repriorizado.
 
 ---
 
@@ -61,4 +63,5 @@ na terça.
   negócio.
 - **Divergência é bem-vinda, na reunião.** Depois da reunião, a prioridade registrada
   é a prioridade — até a próxima terça.
-- **Tudo que for decidido é registrado.** Decisão não escrita não existe.
+- **Tudo que for decidido é registrado.** Decisão não escrita não existe: prioridade e
+  trabalho vivem no **Linear**; regras e estrutura do time vivem nestes docs.

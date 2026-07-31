@@ -1,0 +1,13 @@
+- [Início](README.md)
+- **Papéis**
+  - [CTO](roles/cto.md)
+  - [Product Leader](roles/product-leader.md)
+  - [Desenvolvedor](roles/developer.md)
+- **Operação**
+  - [Topologia do Time](team.md)
+  - [Stack](stack.md)
+  - [Reuniões de Controle](meetings.md)
+  - [Princípios](principles.md)
+  - [Ativos](assets.md)
+- **Produtos**
+  - [LM Zello](products/lm-zello.md)

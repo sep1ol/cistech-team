@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Tech Team</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🧭</text></svg>">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/dark.css">
+  <style>
+    /* dark.css ships light striped rows that clash with its own text color */
+    .markdown-section tr:nth-child(2n) { background-color: #2b2b2b; }
+  </style>
+</head>
+<body>
+  <div id="app">Carregando...</div>
+  <script>
+    window.$docsify = {
+      name: 'Tech Team',
+      repo: 'sep1ol/cto-role',
+      homepage: 'README.md',
+      loadSidebar: true,
+      alias: { '/.*/_sidebar.md': '/_sidebar.md' },
+      subMaxLevel: 2,
+      auto2top: true,
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>

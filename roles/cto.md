@@ -1,9 +1,9 @@
 # Papel: CTO
 
-> The CTO is the job role that has power over products and developers.
-> Not only that but can shape the future of the company because he steers
-> the technology that leverages us 1000x over.
-> The CTO is the ultimate product builder because we can manage all resources.
+> Technology is leverage: it turns one person into a thousand.
+> The CTO's job is to choose where that leverage points.
+> Products and developers are the instruments; the future of the company
+> is the outcome. That is why the CTO must be, above all, a builder.
 
 ## Missão
 

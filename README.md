@@ -1,6 +1,6 @@
-# Tech Team
+# CIS — Tech Team
 
-Este repositório declara como funciona a área de tecnologia da empresa: quem faz parte,
+Este repositório declara como funciona a área de tecnologia da **CIS**: quem faz parte,
 o que cada papel faz, como os times se organizam, no que somos especialistas e como
 prestamos contas. Assim como no Ash Framework, declaramos os domínios e derivamos a
 operação a partir deles.

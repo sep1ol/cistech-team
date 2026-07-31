@@ -1,13 +1,16 @@
 - [Início](README.md)
 - **Papéis**
+  - [CEO](roles/ceo.md)
   - [CTO](roles/cto.md)
-  - [Product Leader](roles/product-leader.md)
-  - [Desenvolvedor](roles/developer.md)
+  - [Engenheiro](roles/engineer.md)
 - **Operação**
   - [Topologia do Time](team.md)
   - [Stack](stack.md)
   - [Reuniões de Controle](meetings.md)
   - [Princípios](principles.md)
   - [Ativos](assets.md)
-- **Produtos**
-  - [LM Zello](products/lm-zello.md)
+- **Projetos**
+  - [IA Security](projects/ia-security.md)
+  - [Redirecionador](projects/redirecionador.md)
+  - [LM Zello](projects/lm-zello.md)
+  - [Morfeu](projects/morfeu.md)

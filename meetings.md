@@ -7,11 +7,11 @@ Elas são a cola que une a tecnologia ao resto da empresa — **inegociáveis**.
 
 | Reunião | Quando | Participantes | Pergunta que responde |
 |---------|--------|---------------|----------------------|
-| **Direção** | Terça | CTO + CEO (+ Product Leaders) | "O que vamos fazer e por quê?" |
-| **Progresso** | Quinta | CTO + CEO (+ Product Leaders) | "O que ficou pronto e o que aprendemos?" |
+| **Direção** | Terça | CEO + CTO + Engenheiros | "O que vamos fazer e por quê?" |
+| **Progresso** | Quinta | CEO + CTO + Engenheiros | "O que ficou pronto e o que aprendemos?" |
 
-Reuniões com a equipe de teste são à parte: qualquer dia, conforme necessidade,
-conduzidas pelo Product Leader (hoje, pelo CTO).
+Reuniões com testadores/usuários são à parte: qualquer dia, conforme necessidade,
+conduzidas pelo engenheiro do projeto.
 
 ---
 
@@ -19,15 +19,15 @@ conduzidas pelo Product Leader (hoje, pelo CTO).
 
 **Objetivo:** alinhar prioridades da semana e destravar decisões que dependem do CEO.
 
-**Formato (30–45 min), por produto:**
+**Formato (30–45 min), por projeto:**
 
-1. **Estado em produção** (2 min) — o produto está no ar? Algum incidente desde quinta?
-2. **Feedback dos testadores** (10 min) — o que o grupo de teste disse/fez. Fatos, não
+1. **Estado em produção** (2 min) — o projeto está no ar? Algum incidente desde quinta?
+2. **Feedback dos testadores** (10 min) — o que os usuários disseram/fizeram. Fatos, não
    impressões: o que usaram, onde travaram, o que pediram.
-3. **Prioridades da semana** (10 min) — o que o time vai atacar até quinta e por quê.
-   Máximo 3 prioridades por produto.
+3. **Prioridades da semana** (10 min) — o que o engenheiro vai atacar até quinta e por quê.
+   Máximo 3 prioridades por projeto.
 4. **Decisões e bloqueios** (10 min) — o que precisa do CEO: dinheiro, contatos,
-   decisões de negócio, acesso a clínicas/testadores.
+   decisões de negócio, acesso a clientes/testadores.
 
 **Saída obrigatória:** lista de prioridades da semana, registrada por escrito.
 
@@ -36,14 +36,14 @@ conduzidas pelo Product Leader (hoje, pelo CTO).
 **Objetivo:** demonstrar o produto funcionando e prestar contas do que foi priorizado
 na terça.
 
-**Formato (30–45 min), por produto:**
+**Formato (30–45 min), por projeto:**
 
-1. **Demo ao vivo** (15 min) — mostrar o que entrou no produto **em produção, não em
+1. **Demo ao vivo** (15 min) — mostrar o que entrou no projeto **em produção, não em
    localhost**. Demo > slides, sempre.
 2. **Prioridades da terça** (5 min) — o que foi concluído, o que não foi e por quê.
    Sem julgamento; o objetivo é calibrar o quanto cabe numa semana.
-3. **Próximos passos para os testadores** (5 min) — o que será exposto ao grupo de
-   teste e que feedback queremos colher.
+3. **Próximos passos para os testadores** (5 min) — o que será exposto aos usuários e
+   que feedback queremos colher.
 4. **Visão de frente** (5 min) — o que se desenha para a próxima semana (vira insumo
    da terça).
 
@@ -56,8 +56,9 @@ na terça.
 - **Fatos antes de opiniões.** "3 testadores travaram no envio de exame" vale mais que
   "acho que está confuso".
 - **Demo em produção é a prova.** Se não dá para demonstrar, não está pronto.
-- **Quem apresenta o quê:** Product Leader apresenta produto e feedback; Desenvolvedor
-  (ou CTO) apresenta o técnico e a demo. Enquanto o CTO acumular papéis, ele apresenta tudo.
+- **Quem apresenta o quê:** cada engenheiro apresenta os seus projetos — demo, técnico
+  e feedback. O CTO conduz a reunião e fecha as prioridades; o CEO decide o que é de
+  negócio.
 - **Divergência é bem-vinda, na reunião.** Depois da reunião, a prioridade registrada
   é a prioridade — até a próxima terça.
 - **Tudo que for decidido é registrado.** Decisão não escrita não existe.

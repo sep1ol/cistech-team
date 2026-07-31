@@ -1,4 +1,6 @@
-# Produto: LM Zello
+# Projeto: LM Zello
+
+**Engenheiro:** Arthur (Senior · CTO)
 
 ## Visão
 
@@ -23,17 +25,16 @@ muitas áreas do contexto da clínica com profundidade.
 
 O produto evolui exposto à realidade — ver [principles.md](../principles.md):
 
-1. Sistema **em produção** nas VPSs (temos duas — ver [assets.md](../assets.md)).
+1. Sistema **em produção** nas VPSs — ver [assets.md](../assets.md).
 2. Grupo seleto de testadores usando de verdade e devolvendo feedback.
 3. Ciclo: desenvolver → publicar → enfrentar dificuldades reais → ajustar.
 
 ## Base técnica
 
-- Backend declarativo em **Ash Framework + Phoenix** (Elixir), derivado do template **Morfeu**.
-- Declaramos os domínios como recursos Ash e derivamos o resto do backend —
-  é isso que dá a velocidade de desenvolvimento de uma pessoa só.
+- Stack padrão da área ([stack.md](../stack.md)), derivada do template
+  [Morfeu](morfeu.md).
 
 ## Estado atual
 
-- Fase: desenvolvimento em modo fundador, preparando exposição a testadores.
+- Em desenvolvimento por Arthur, preparando exposição a testadores.
 - Próximo marco: sistema rodando em produção nas VPSs com grupo de teste ativo.

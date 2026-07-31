@@ -27,8 +27,5 @@ Recursos à disposição da área de tecnologia. Cada ativo existe para servir o
 ## Templates e base de código
 
 ### Morfeu (Ash Framework)
-- Projeto-template da área: clona-se e deriva-se novos produtos rapidamente, com a base
-  mais difícil já implementada.
-- Backend declarativo: macros em Elixir declaram recursos do Ash Framework (domínios)
-  e todo o resto do backend é derivado.
-- É a base técnica do LM Zello e de qualquer produto futuro. Mantido pelo CTO.
+- Projeto-template e base comum da área — detalhes em
+  [projects/morfeu.md](projects/morfeu.md). Mantido pelo CTO.

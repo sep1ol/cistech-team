@@ -16,8 +16,8 @@ Vale para código (recursos Ash → backend derivado) e para o time (estes docum
 operação derivada). A base difícil se resolve uma vez (Morfeu) e se reaproveita sempre.
 
 ## 4. Times pequenos, uma especialidade
-1 desenvolvedor por produto, teto de 3. Uma stack única ([stack.md](stack.md)) para
-todos os produtos. Restrição é o que nos dá velocidade e intercambialidade.
+1 engenheiro por projeto, teto de 3. Uma stack única ([stack.md](stack.md)) para
+todos os projetos. Restrição é o que nos dá velocidade e intercambialidade.
 
 ## 5. Comunicação é parte do trabalho, não interrupção
 O que não é comunicado não existe para o resto da empresa. As

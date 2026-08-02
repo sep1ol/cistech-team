@@ -13,3 +13,4 @@
   - [Redirecionador](projects/redirecionador.md)
   - [LM Zello](projects/lm-zello.md)
   - [Morfeu](projects/morfeu.md)
+  - [CIS OS](projects/cis-os.md)

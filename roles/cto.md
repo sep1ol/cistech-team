@@ -15,20 +15,24 @@ por excelência.
 
 ## Responsabilidades
 
-1. **Definir e manter a especialidade técnica** — a [stack](../stack.md) é decisão do CTO.
-   Todos os projetos nascem dela; desvios só com decisão explícita do CTO.
+1. **Alavancar a empresa inteira com software** — tecnologia na CIS não é só
+   propriedade intelectual para vender. Toda pessoa e toda área pode ser multiplicada
+   por software, e é papel do CTO procurar ativamente onde: atrito, trabalho manual,
+   informação que se perde. O [CIS OS](../projects/cis-os.md) é a materialização
+   disso — a empresa rodando dentro do próprio software.
 2. **Colocar os produtos à prova** — garantir que todo projeto rode em produção e seja
-   exposto a usuários reais. Este é o foco diário.
-3. **Prestar contas ao CEO** — conduzir as [reuniões de controle](../meetings.md) de
-   terça e quinta. O CTO é a cola entre a tecnologia e o resto da empresa.
+   exposto a usuários reais. Software que ninguém usa não alavanca nada. Este é o
+   foco diário.
+3. **Transformar uso interno em produto** — observar a adoção real do que construímos
+   para nós mesmos e reconhecer quando uma funcionalidade interna está pronta para
+   virar propriedade intelectual vendável.
 4. **Manter a base comum** — o template [Morfeu](../projects/morfeu.md) e a
    infraestrutura são responsabilidade do CTO; é deles que vem a velocidade de todos
    os engenheiros.
-5. **Manter o Linear organizado** — a hierarquia de issues (épico > feature > task,
-   com dependências) é responsabilidade do CTO. As prioridades fechadas na reunião de
-   terça viram issues priorizadas; o Linear reflete sempre o estado real dos projetos.
-   Os **milestones** de cada projeto são definidos pelo engenheiro dono junto com o CTO
-   — são eles que guiam as reuniões de controle.
+5. **Manter a operação legível** — a hierarquia de issues no Linear, os **milestones**
+   de cada projeto (definidos pelo engenheiro dono junto com o CTO) e o ritmo das
+   [reuniões de controle](../meetings.md). Qualquer pessoa da empresa deve conseguir
+   ver onde cada projeto está sem perguntar a ninguém.
 
 ## Estado atual
 

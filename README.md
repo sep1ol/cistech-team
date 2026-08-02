@@ -20,6 +20,7 @@ operação a partir deles.
 | [projects/redirecionador.md](projects/redirecionador.md) | Redirecionador — Arthur |
 | [projects/lm-zello.md](projects/lm-zello.md) | LM Zello — Arthur |
 | [projects/morfeu.md](projects/morfeu.md) | Morfeu (base comum) — Arthur |
+| [projects/cis-os.md](projects/cis-os.md) | CIS OS (software interno) — Arthur |
 
 ## Como operar
 

@@ -22,14 +22,15 @@ CEO (Rafael) ─── CTO (Arthur)
          ├── IA Security ──── Kleverson
          ├── Redirecionador ─ Arthur
          ├── LM Zello ─────── Arthur
-         └── Morfeu ────────── Arthur
+         ├── Morfeu ────────── Arthur
+         └── CIS OS ────────── Arthur
 ```
 
 ## Alocação atual
 
 | Pessoa | Cargo | Projetos |
 |--------|-------|----------|
-| **Arthur** | Engenheiro Senior · CTO | [Redirecionador](projects/redirecionador.md), [LM Zello](projects/lm-zello.md), [Morfeu](projects/morfeu.md) |
+| **Arthur** | Engenheiro Senior · CTO | [Redirecionador](projects/redirecionador.md), [LM Zello](projects/lm-zello.md), [Morfeu](projects/morfeu.md), [CIS OS](projects/cis-os.md) |
 | **Kleverson** | Engenheiro Senior | [IA Security](projects/ia-security.md) |
 
 ## Como o time cresce

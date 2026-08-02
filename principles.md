@@ -28,6 +28,9 @@ escrita não existe.
 Melhor cobrir uma área de ponta a ponta (e testá-la em produção) do que dez áreas pela
 metade.
 
-## 7. Alavancagem via automação
+## 7. Alavancagem via automação e software interno
 Hermes Agent e automações existem para multiplicar o time. Tarefa recorrente feita
-manualmente duas vezes é candidata a automação na terceira.
+manualmente duas vezes é candidata a automação na terceira. O mesmo vale para a
+empresa inteira: qualquer área da CIS pode ser multiplicada por software interno
+([CIS OS](projects/cis-os.md)) — e o que provar valor no uso interno é candidato
+a virar produto.

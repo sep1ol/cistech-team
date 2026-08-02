@@ -1,6 +1,5 @@
 - [Início](README.md)
 - **Papéis**
-  - [CEO](roles/ceo.md)
   - [CTO](roles/cto.md)
   - [Engenheiro](roles/engineer.md)
 - **Operação**

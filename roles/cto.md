@@ -19,14 +19,12 @@ por excelência.
    Todos os projetos nascem dela; desvios só com decisão explícita do CTO.
 2. **Colocar os produtos à prova** — garantir que todo projeto rode em produção e seja
    exposto a usuários reais. Este é o foco diário.
-3. **Alocar engenheiros** — decidir quem carrega qual projeto, conforme a
-   [topologia](../team.md).
-4. **Prestar contas ao CEO** — conduzir as [reuniões de controle](../meetings.md) de
+3. **Prestar contas ao CEO** — conduzir as [reuniões de controle](../meetings.md) de
    terça e quinta. O CTO é a cola entre a tecnologia e o resto da empresa.
-5. **Manter a base comum** — o template [Morfeu](../projects/morfeu.md) e a
+4. **Manter a base comum** — o template [Morfeu](../projects/morfeu.md) e a
    infraestrutura são responsabilidade do CTO; é deles que vem a velocidade de todos
    os engenheiros.
-6. **Manter o Linear organizado** — a hierarquia de issues (épico > feature > task,
+5. **Manter o Linear organizado** — a hierarquia de issues (épico > feature > task,
    com dependências) é responsabilidade do CTO. As prioridades fechadas na reunião de
    terça viram issues priorizadas; o Linear reflete sempre o estado real dos projetos.
    Os **milestones** de cada projeto são definidos pelo engenheiro dono junto com o CTO

@@ -9,7 +9,6 @@ operação a partir deles.
 
 | Documento | Declara |
 |-----------|---------|
-| [roles/ceo.md](roles/ceo.md) | O papel do CEO |
 | [roles/cto.md](roles/cto.md) | O papel do CTO |
 | [roles/engineer.md](roles/engineer.md) | O papel do Engenheiro |
 | [team.md](team.md) | Topologia: engenheiros, projetos e alocação atual |
